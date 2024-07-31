@@ -1,0 +1,31 @@
+CREATE TABLE House(
+House_name varchar2(15) PRIMARY KEY);
+
+CREATE TABLE Event (
+Event_name varchar2(100) PRIMARY KEY,
+Event_time varchar2(20) NOT NULL,
+Event_Venue varchar2(50) NOT NULL,
+Event_Day varchar2(5) NOT NULL,
+Event_Date Date); 
+
+CREATE TABLE Student (
+Stud_id integer PRIMARY KEY,
+Password varchar(50) NOT NULL, 
+First_name varchar(200) NOT NULL,
+Last_name varchar(200) NOT NULL,
+Year_lvl varchar(10) NOT NULL,
+Program varchar(50) NOT NULL,
+House_name varchar(15) NOT NULL,
+CONSTRAINT unq_student UNIQUE(stud_id, first_name, last_name),
+CONSTRAINT fk_sHouseName FOREIGN KEY (house_name) REFERENCES House(house_name),
+CONSTRAINT check_password_length CHECK (LENGTH(Password) >= 8),
+CONSTRAINT check_stud_id_length CHECK (LENGTH(TO_CHAR(Stud_id)) = 10));
+
+CREATE TABLE Attendance(
+Attendant_id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+Stud_id integer NOT NULL,
+Attendant_type varchar(20) NOT NULL, 
+Event_name varchar2(100) NOT NULL,
+CONSTRAINT unqA_id_eventN UNIQUE(stud_id, event_name),
+CONSTRAINT fk_aEventName FOREIGN KEY (event_name) REFERENCES Event(event_name),
+CONSTRAINT fk_aStudID FOREIGN KEY (stud_id) REFERENCES Student(stud_id));

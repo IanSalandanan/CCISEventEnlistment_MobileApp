@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+     <TextView
+        android:text="Events"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="60.6dp"
+        android:textAlignment="center"
+        android:gravity="center_vertical"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView1"
+        android:layout_marginBottom="7.6dp" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="581.6dp"
+        android:id="@+id/eventList" />
+    <Button
+        android:text="Return"
+        android:layout_width="350dp"
+        android:layout_height="57dp"
+        android:layout_marginHorizontal="33dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:backgroundTint="#4ca4e4"
+        android:textColor="@android:color/white"
+        android:id="@+id/returnBtn" />
+</LinearLayout>

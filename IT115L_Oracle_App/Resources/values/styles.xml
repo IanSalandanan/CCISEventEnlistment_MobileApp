@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item><item name="android:colorPrimaryDark">@color/switch_thumb_material_light</item><item name="android:textColorPrimary">@color/primary_material_dark</item><item name="android:textColorSecondary">@color/abc_decor_view_status_guard</item><item name="android:colorBackground">#fffffefe</item><item name="android:windowBackground">?android:attr/colorBackground</item><item name="android:colorControlActivated">#ff0091ea</item><item name="android:colorControlNormal">#ff1e88e5</item><item name="android:colorButtonNormal">#ff1e88e5</item><item name="android:colorAccent">#ffcfd8dc</item></style>
+
+</resources>

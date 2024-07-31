@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|c:\\users\\christian kerby\\documents\\github\\cciseventenlistment_mobileapp\\it115l_oracle_app\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\register.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\register.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\eventlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:eventlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\eventlist.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\eventlist.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\lobby.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\lobby.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\details.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\details.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\events.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\events.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\profile.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\profile.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\resources\\layout\\login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{5773C4EC-0445-47D5-BC9F-1DA5B483CD21}|IT115L_Oracle_App.csproj|solutionrelative:resources\\layout\\login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:41:17.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\register.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\register.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\register.xml",
+              "RelativeToolTip": "Resources\\layout\\register.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-13T17:35:21.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lobby.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\lobby.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\lobby.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\lobby.xml",
+              "RelativeToolTip": "Resources\\layout\\lobby.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-13T17:35:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\login.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\login.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\login.xml",
+              "RelativeToolTip": "Resources\\layout\\login.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-13T17:34:59.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "details.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\details.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\details.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\details.xml",
+              "RelativeToolTip": "Resources\\layout\\details.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-11T01:30:20.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eventlist.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\eventlist.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\eventlist.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\eventlist.xml",
+              "RelativeToolTip": "Resources\\layout\\eventlist.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-11T01:29:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "events.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\events.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\events.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\events.xml",
+              "RelativeToolTip": "Resources\\layout\\events.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-11T00:27:56.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Events.cs",
+              "RelativeToolTip": "Events.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:44:10.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventList.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\EventList.cs",
+              "RelativeDocumentMoniker": "EventList.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\EventList.cs",
+              "RelativeToolTip": "EventList.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:45:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "profile.xml",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\profile.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\profile.xml",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Resources\\layout\\profile.xml",
+              "RelativeToolTip": "Resources\\layout\\profile.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-13T17:35:54.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Details.cs",
+              "RelativeDocumentMoniker": "Details.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Details.cs",
+              "RelativeToolTip": "Details.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:34:59.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAwwJEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:18:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Transactions.cs",
+              "RelativeDocumentMoniker": "Transactions.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\CCISEventEnlistment_MobileApp\\IT115L_Oracle_App\\Transactions.cs",
+              "RelativeToolTip": "Transactions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:27:00.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
